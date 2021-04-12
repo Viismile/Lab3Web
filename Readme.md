@@ -1,4 +1,4 @@
-# Praktikum 2 - Pemrograman Web (List, Table, dan Form)
+# Praktikum 3 - Pemrograman Web (List, Table, dan Form)
 
 ### Rofi Ismail - 311910657
 ### TI.19.A.2
